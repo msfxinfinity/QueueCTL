@@ -211,3 +211,5 @@ python3 queuectl.py dlq retry <id>
 
 6️⃣ Stop workers gracefully
 python3 queuectl.py worker stop
+
+"https://drive.google.com/drive/folders/1vYAPYH2VE322dlHu4uL1jvz3os3m8e9n?usp=sharing" - Link to the CLI Demo File
